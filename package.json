@@ -1,0 +1,19 @@
+{
+  "name": "post-bot",
+  "version": "0.0.1",
+  "description": "bot to post news articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": ". ./.env && node index.js",
+    "start:prod": ". ./.env && forever index.js"
+  },
+  "author": "Carl Larson <cslarson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "lowdb": "^1.0.0",
+    "rss-watcher": "^1.4.0",
+    "snoowrap": "^1.21.0"
+  }
+}

@@ -1,0 +1,108 @@
+[
+  {
+    "id": "decrypt",
+    "url": "https://decrypt.co/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "theblockcrypto",
+    "url": "https://www.theblockcrypto.com/rss.xml",
+    "filter": ["Ethereum", "DeFi"],
+    "paywall": "/genesis"
+  },
+  {
+    "id": "bankless",
+    "url": "https://bankless.substack.com/feed",
+    "filter": []
+  },
+  {
+    "id": "dappradar",
+    "url": "https://dappradar.com/blog/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "defirate",
+    "url": "https://defirate.com/feed/",
+    "filter": []
+  },
+  {
+    "id": "consensys",
+    "url": "https://media.consensys.net/feed",
+    "filter": []
+  },
+  {
+    "id": "trustnodes",
+    "url": "https://www.trustnodes.com/feed",
+    "filter": []
+  },
+  {
+    "id": "coindesk",
+    "url": "https://www.coindesk.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "cointelegraph",
+    "url": "https://cointelegraph.com/rss",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "cryptopolitan",
+    "url": "https://www.cryptopolitan.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "dailyhodl",
+    "url": "https://dailyhodl.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "cryptoslate",
+    "url": "https://cryptoslate.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "crypto-news-flash",
+    "url": "https://www.crypto-news-flash.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "cryptonomist",
+    "url": "https://en.cryptonomist.ch/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "deepdao",
+    "url": "https://deepdao.substack.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "stakecapital",
+    "url": "https://stakecapital.substack.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "yieldfarmer",
+    "url": "https://yieldfarmer.substack.com/feed",
+    "filter": []
+  },
+  {
+    "id": "deribit",
+    "url": "https://insights.deribit.com/feed",
+    "filter": ["Ethereum", "DeFi"]
+  },
+  {
+    "id": "thedailygwei",
+    "url": "https://thedailygwei.substack.com/feed",
+    "filter": []
+  },
+  {
+    "id": "synthesis",
+    "url": "https://synthesis.substack.com/feed",
+    "filter": []
+  },
+  {
+    "id": "yearn",
+    "url": "https://yearn.substack.com/feed",
+    "filter": []
+  }
+]
