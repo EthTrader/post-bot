@@ -19,8 +19,12 @@ function setup(feed){
   const watcher = new Watcher({uri: feed.url, interval: 30})
   watcher.on('new article', getProcessor(feed))
   watcher.run((err, articles)=>{
-    if(err) console.log(err)
-    console.log(`setup ${feed.id}`)
+    if(err) {
+      console.log(err)
+      console.log(`setup ${feed.id} failed`)
+    } else {
+      console.log(`setup ${feed.id}`)
+    }
   })
 }
 
